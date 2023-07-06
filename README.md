@@ -3,12 +3,15 @@ The AI-Doctor is a command line interface program that acts as an intelligent sy
 
 ## Installation
 Clone the repository from GitHub:
-git clone [[[https://github.com/fergus-codes/ai-doctor.git](https://github.com/Fergus-Codes/AI-Doctor)]]
+```
+git clone https://github.com/fergus-codes/ai-doctor.git
+```
 
 ##Navigate to the project directory:
-cd ai-doctor
+
+```cd ai-doctor```
 Install the dependencies:
-npm install
+```npm install inquirer langchain dotenv```
 
 ## Usage
 Set up your environment variables:
@@ -17,11 +20,11 @@ Set up your environment variables:
 Add the following line to the .env file:
 makefile
 Copy code
-API_KEY=your-api-key
+```API_KEY=your-api-key```
 Replace your-api-key with the API key you obtained for the symptom checker API you are using.
 
 ## Start the AI-Doctor application:
-node index.js
+```node index.js```
 
 The application will guide you through a series of questions to gather information about your symptoms. Answer each question to the best of your ability.
 
@@ -35,8 +38,6 @@ inquirer (version 8.1.0 or above)
 langchain (version 1.0.0 or above)
 dotenv (version 10.0.0 or above)
 To install the required dependencies, navigate to the project directory and run the following command:
-
-npm install inquirer langchain dotenv
 
 ## Contributing
 If you would like to contribute to the AI-Doctor application, please follow these steps:
