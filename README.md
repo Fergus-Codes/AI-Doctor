@@ -1,6 +1,8 @@
 # AI-Doctor - Artificial Intelligence Symptom Checker CLI Application
 
-The AI-Doctor is a command line interface program that acts as an intelligent symptom checker. It allows users to input their symptoms and receive potential illness suggestions, along with descriptions and treatment advice. This application is built using Node.js and utilizes the inquirer, langchain, and dotenv packages for user interaction, natural language processing, and environment variable management. ** This application requires that the user has a valid API key for OpenAI**
+The AI-Doctor is a command line interface program that acts as an intelligent symptom checker. It allows users to input their symptoms and receive potential illness suggestions, along with descriptions and treatment advice. This application is built using Node.js and utilizes the inquirer, langchain, and dotenv packages for user interaction, natural language processing, and environment variable management. 
+
+## **This application requires that the user has a valid API key for OpenAI**
 
 ## Installation 
 Clone the repository from GitHub:
