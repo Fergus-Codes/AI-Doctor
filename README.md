@@ -3,7 +3,7 @@ The AI-Doctor is a command line interface program that acts as an intelligent sy
 
 ## Installation
 Clone the repository from GitHub:
-git clone [[[https://github.com/fergus-codes/ai-doctor.git](https://github.com/Fergus-Codes/AI-Doctor)]](https://github.com/Fergus-Codes/AI-Doctor.git)
+git clone [[[https://github.com/fergus-codes/ai-doctor.git](https://github.com/Fergus-Codes/AI-Doctor)]]
 
 ##Navigate to the project directory:
 cd ai-doctor
